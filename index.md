@@ -1,6 +1,6 @@
 
 
-![Image](https://github.com/BrianG13/FLEX/blob/gh-pages/Skeleton%20cameras.png)
+![Image](/assets/Skeleton cameras.png)
 ### Coming Soon ...
 
 <!--- 
