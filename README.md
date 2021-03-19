@@ -1,2 +1,2 @@
 # FLEX
-FLEX: Parameter-free Multi-view 3D Human Motion Reconstruction
+FLEX: parameter-**F**ree mu**L**ti-view 3D human motion r**E**constru**X**ion
