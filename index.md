@@ -1,6 +1,7 @@
 
 
 ![Image](/assets/Skeleton cameras.png)
+Videos demonstrations are available [here](https://github.com/BrianG13/FLEX/tree/gh-pages/videos)
 ### Coming Soon ...
 
 <!--- 
