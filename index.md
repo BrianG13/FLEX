@@ -4,7 +4,7 @@
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/nMMmfWxA3xI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
 More video demos are available [here](https://github.com/BrianG13/FLEX/tree/gh-pages/videos)
-### Data & Code - Coming Soon ...
+### Data & Code are available at our github repository: https://github.com/BrianG13/FLEX
 
 <!--- 
 ## Welcome to GitHub Pages
