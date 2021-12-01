@@ -1,0 +1,50 @@
+{
+    "use_GT_bones": false,
+    "use_GT_rot": false,
+    "arch": {
+        "type": "fk_multi_view_model",
+        "kernel_size": [5,3,1],
+        "stride": [1,1,1],
+        "dilation": [1,1,1],
+        "kernel_size_stage_1": [5,3,1],
+        "kernel_size_stage_2": [5,3,1],
+        "stride_stage_1": [1,1,1],
+        "dilation_stage_1": [1,1,1],
+        "channel": 512,
+        "stage": 2,
+        "n_type": 1,
+        "rotation_type": "q",
+        "translation": false,
+        "confidence": false,
+        "contact": false,
+        "predict_joints_confidence": false,
+        "predict_rotations_confidence": false,
+        "branch_Q_double_input": true,
+        "btw_stages_fusion": false,
+        "late_fusion": false,
+        "n_views": 4,
+        "branch_S_multi_view": true
+    },
+    "trainer": {
+        "epochs": 200,
+        "save_dir": null,
+        "save_freq": 10,
+        "verbosity": 2,
+        "monitor": "val_metric",
+        "monitor_mode": "min",
+        "siamese": true,
+        "dump_processed_data": false,
+        "upload_processed_data": false,
+        "use_openpose_2d": false,
+        "use_cmu_data": false,
+        "merge_double_view_poses": false,
+        "new_merge_component": true,
+        "use_loss_angles": false,
+        "multi_view_mode": false,
+        "optimizer": "adam"
+    },
+    "visualization": {
+        "tensorboardX": true
+    }
+}
+
