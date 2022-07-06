@@ -2,6 +2,13 @@
 
 This repository is the official implementation for the [paper](https://arxiv.org/abs/2105.01937)
 
+A short clip describing our work: [clip.mp4](https://drive.google.com/file/d/1HSILhK9NX2lGeNQ6mFpNQlYbbK2F8R1X/view?usp=sharing)
+
+- Video files showing our results on the Human3.6M dataset: [Human36M_S9_Posing_1.mp4](https://drive.google.com/file/d/19yuAHNPcNB574Num5LUcBDDDShDJdjtu/view?usp=sharing) & [Human36M_S9_Sitting.mp4](https://drive.google.com/file/d/1F0nZA257StpxzKVNNI84Y89SwCEAmUVK/view?usp=sharing)
+- Video file showing our results on the KTH multi-view Football II dataset: [KTH_football.mp4](https://drive.google.com/file/d/12o6MYtX53kZ7_pxy-ga26Bn0JwZyGJ4I/view?usp=sharing)
+- Video files comparing MotioNet (single-view) \& Iskakov et.al. results versus ours: [MotioNet_comparison.mp4](https://drive.google.com/file/d/1BNmIJ_eb5LyP2WuIsG5C1wo0CDZWzoCk/view?usp=sharing) & [Iskakov_comparison.mp4](https://drive.google.com/file/d/1oyrvhq5245__lxcgKfPC8eiKdwZvORo4/view?usp=sharing)
+- Syntethic videos from our Blender studio are available to download [here](https://drive.google.com/drive/folders/1yvBYLr8GgRSlsCK25bUsQVbAEqZQYMG6?usp=sharing)
+
 ## Requirements
 
 - Linux
@@ -16,7 +23,6 @@ conda env create -f environment.yml -n <YOUR-ENV-NAME>
 ## Data
 - Download the data .zip file from [here](https://drive.google.com/file/d/1hJoyuptbXe4-WcO7sWNUHkNO4iaZJzDh/view?usp=sharing) and unzip it inside the `FLEX/data` folder.
 - Download the pre-trained model checkpoint from [here](https://drive.google.com/file/d/1rJMh6SzzsjU4pAMq9bg4ssnUgyx1bF_Q/view?usp=sharing) and add it under the `FLEX/checkpoint` folder.
-- Syntethic videos from our Blender studio are available to download [here](https://drive.google.com/drive/folders/1yvBYLr8GgRSlsCK25bUsQVbAEqZQYMG6?usp=sharing)
 
 ## Evaluation
 After you have downloaded the data & pre-trained checkpoint you can evaluate our model by running:
