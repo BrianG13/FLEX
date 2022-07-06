@@ -16,6 +16,7 @@ conda env create -f environment.yml -n <YOUR-ENV-NAME>
 ## Data
 - Download the data .zip file from [here](https://drive.google.com/file/d/1hJoyuptbXe4-WcO7sWNUHkNO4iaZJzDh/view?usp=sharing) and unzip it inside the `FLEX/data` folder.
 - Download the pre-trained model checkpoint from [here](https://drive.google.com/file/d/1rJMh6SzzsjU4pAMq9bg4ssnUgyx1bF_Q/view?usp=sharing) and add it under the `FLEX/checkpoint` folder.
+- Syntethic videos from our Blender studio are available to download [here](https://drive.google.com/drive/folders/1yvBYLr8GgRSlsCK25bUsQVbAEqZQYMG6?usp=sharing)
 
 ## Evaluation
 After you have downloaded the data & pre-trained checkpoint you can evaluate our model by running:
