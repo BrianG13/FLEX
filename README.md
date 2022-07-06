@@ -1,5 +1,6 @@
 # FLEX: Parameter-free Multi-view 3D Human Motion Reconstruction
 ![alt text](https://github.com/BrianG13/FLEX/blob/main/High_Level_Architecture.jpg)
+![alt text](https://github.com/BrianG13/FLEX/blob/main/H36M_results_grid_updated_A.png)
 
 This repository is the official implementation for the [paper](https://arxiv.org/abs/2105.01937)
 
