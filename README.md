@@ -1,4 +1,4 @@
-# FLEX: Parameter-free Multi-view 3D Human Motion Reconstruction
+# FLEX: Extrinsic Parameter-free Multi-view 3D Human Motion Reconstruction
 [![Youtube video](https://img.youtube.com/vi/2Vgs4nBHLa8/0.jpg)](https://www.youtube.com/watch?v=2Vgs4nBHLa8)
 
 ![alt text](https://github.com/BrianG13/FLEX/blob/main/High_Level_Architecture.jpg)
