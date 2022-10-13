@@ -1,6 +1,8 @@
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/2Vgs4nBHLa8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p align="center"><iframe width="560" height="315" src="[https://www.youtube.com/embed/2Vgs4nBHLa8](https://www.youtube.com/watch?v=hXc97BDJJTg)" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
+Accepted to ECCV22 !
+Poster is available [here](https://drive.google.com/file/d/1CbGD6I9-wfhACe9jhk5dYQZYWvjkaVYg/view?usp=sharing)
 More video demos are available [here](https://github.com/BrianG13/FLEX/tree/main/videos)
 ### Data & Code are available at our github repository: https://github.com/BrianG13/FLEX
 
