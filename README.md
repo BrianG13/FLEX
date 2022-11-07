@@ -83,9 +83,10 @@ Here is an example of our pre-trained model output, using ground-truth 2D input:
 
 ```
 @inproceedings{gordon2022flex,
-  title={FLEX: Extrinsic Parameter-free Multi-view 3D Human Motion Reconstruction},
+  title={FLEX: Extrinsic Parameters-free Multi-view 3D Human Motion Reconstruction},
   author={Gordon, Brian and Raab, Sigal and Azov, Guy and Giryes, Raja and Cohen-Or, Daniel},
-  booktitle={European conference on computer vision (ECCV)},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  pages={176--196},
   year={2022},
   organization={Springer}
 }
